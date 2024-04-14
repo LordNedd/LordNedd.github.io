@@ -86473,7 +86473,7 @@ q=t.wr
 A.eZ(a3,B.bB,q).toString
 p=A.dE("Noi",b,A.hY().$3$color$fontSize$fontWeight(B.o,30,B.b9),B.ah)
 A.eZ(a3,B.bB,q).toString
-a1.push(A.fJ(b,A.kl(new A.cs(B.nl,A.j2(A.a([p,B.F6,A.dE("Quindici anni fa,\nquando eravamo solo due ragazzini,\nil destino ci ha condotto lungo lo stesso sentiero.\nQuel momento \xe8 stato magico:\ni nostri sguardi si sono incrociati e da allora non ci siamo pi\xf9 separati.\n\xc8 stato l'inizio di un viaggio straordinario,\nuna storia che continua a svelare nuovi e meravigliosi significati\nad ogni passo.",b,A.hY().$3$color$fontSize$height(B.o,18,2),B.ah)],a0),B.aW,B.cb,B.aP),b),b,b),B.z,b,B.m7,r,c.e,b,b,b))
+a1.push(A.fJ(b,A.kl(new A.cs(B.nl,A.j2(A.a([p,B.F6,A.dE("Quindici anni fa, quando eravamo solo due ragazzini, il destino ci ha condotto lungo lo stesso sentiero. Quel momento \xe8 stato magico: i nostri sguardi si sono incrociati e da allora non ci siamo pi\xf9 separati. \xc8 stato l'inizio di un viaggio straordinario, una storia che continua a svelare nuovi e meravigliosi significati ad ogni passo.",b,A.hY().$3$color$fontSize$height(B.o,18,2),B.ah)],a0),B.aW,B.cb,B.aP),b),b,b),B.z,b,B.m7,r,c.e,b,b,b))
 r=a2?A.aC(a3,b,s).w.a.b*1.5:A.aC(a3,b,s).w.a.b
 A.eZ(a3,B.bB,q).toString
 p=A.dE("La cerimonia",b,A.hY().$3$color$fontSize$fontWeight(B.o,30,B.b9),B.ah)
@@ -86487,7 +86487,7 @@ k=A.aC(a3,b,s).w
 j=A.aC(a3,b,s).w
 i=A.aC(a3,b,s).w
 A.eZ(a3,B.bB,q).toString
-h=A.dE("Vi aspettiamo per il nostro s\xec preso la Basilica di Maria Santissima Annunziata\n\nin",b,b,B.ah)
+h=A.dE('Vi aspettiamo per il nostro "S\xec" presso la Basilica di Maria Santissima Annunziata\n\nin',b,b,B.ah)
 g=A.Ky(!1,!0,B.a0h,b,!0,b,b,b,b,b,b,b,b,b,new A.aiv(c,a3),b,b,b,b)
 f=a2?A.aC(a3,b,s).w.a.b-A.aC(a3,b,s).w.a.b*0.6:A.aC(a3,b,s).w.a.b-A.aC(a3,b,s).w.a.b*0.6
 e=a2?A.aC(a3,b,s).w.a.a-A.aC(a3,b,s).w.a.a*0.2:A.aC(a3,b,s).w.a.a-A.aC(a3,b,s).w.a.a*0.7
